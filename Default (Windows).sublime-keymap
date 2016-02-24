@@ -10,4 +10,12 @@
   { "keys": ["ctrl+alt+d"], "command": "goto_definition" },
   { "keys": ["alt+d"], "command": "code_intel_auto_complete" },
   { "keys": ["ctrl+alt+c"], "command": "autoprefixer" },
+  { "keys": ["f12"],
+    "command": "side_bar_open_in_browser" ,
+    "args":{"paths":[], "type":"testing", "browser":""}
+  },
+  { "keys": ["ctrl+alt+'"],
+  "command": "quote_html",
+  "args": {"action": "single"}
+  },
 ]

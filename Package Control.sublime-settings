@@ -2,10 +2,14 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"IMESupport"
 	],
 	"installed_packages":
 	[
+		"AutoFileName",
 		"Autoprefixer",
+		"BracketHighlighter",
+		"Color Highlighter",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
 		"LiveStyle",
@@ -14,7 +18,9 @@
 		"Monokai Extended",
 		"Package Control",
 		"PackageResourceViewer",
+		"QuoteHTML",
 		"SideBarEnhancements",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"Terminal"
 	]
 }
